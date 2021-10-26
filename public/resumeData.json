@@ -2,9 +2,9 @@
   "main": {
     "name": "Sanchit Kalsi",
     "occupation": "Student",
-    "description": "I eat, sleep and breathe Designing",
+    "description": "I eat, sleep and breathe Coding!",
     "image": "profilepic.jpg",
-    "bio": "I’m currently pursuing Information Technology at PICT, Pune. Ask me anything, and I'll try to answer it to the fullest. Exploring whatever I find interesting. I’m currently learning Data Structures, and Algorithms, and Web Development. 2021 Goals: Contribute to Open Source projects and explore new technologies. Fun fact: I love graphic designing and playing basketball.",
+    "bio": "Student in Software Engineering at Pune Institute of Computer Technology with experience and extensive education in programming languages, graphic designing, app development and web development. Fluent in English with excellent communication and interpersonal skills. A Fast learner with multi-tasking skills and leadership qualities. Strong work ethic in the team or individual settings to drive product success and process efficiency.",
     "contactmessage": "Reach me out by entering the following details!",
     "email": "sanchitkalsi@gmail.com",
     "phone": "+91-9627948091",
@@ -41,7 +41,7 @@
         "school": "Pune Institute of Computer Technology",
         "degree": "Bachelor's Degree, Information Technology",
         "graduated": "July 2019 - Present",
-        "description": "Learning stage but not giving up age - 9.5 C.G.P.A."
+        "description": "Learning stage but not giving up age - 9.75 C.G.P.A."
       },
       {
         "school": "The Lexicon International School, Wagholi, Pune",
@@ -104,50 +104,97 @@
         "work": "Database Management System"
       }
     ],
+    "softSkills": [
+      {
+        "skill": "Leadership"
+      },
+      {
+        "skill": "Critical thinker"
+      },
+      {
+        "skill": "Teamwork"
+      },
+      {
+        "skill": "Communication"
+      },
+      {
+        "skill": "Active listener"
+      },
+      {
+        "skill": "Time Management"
+      },
+      {
+        "skill": "Adaptability"
+      },
+      {
+        "skill": "Creativity"
+      }
+    ],
     "achievements": [
       {
-        "place": "Gold Badge (5 Stars)",
-        "platform": "HackerRank",
-        "description": "C++ | Java | Python | Problem Solving"
+        "place": "Open Source",
+        "platform": "Hacktoberfest",
+        "time": "October 2021",
+        "description": "10+ contributions"
       },
       {
-        "place": "1st Position",
-        "platform": "Xenia' 21, PICT CSI Student Branch",
-        "description": "Circuitron: The Ultimate Circuit Designing Competition"
-      },
-      {
-        "place": "1st Position",
-        "platform": "Credenz Live' 21, PICT IEEE Student Branch",
-        "description": "Pixelate: Digital Designing Competition"
+        "place": "4th Position",
+        "platform": "Talent Hunt, Amrutvahini College of Engineering",
+        "time": "October 2021",
+        "description": "Objective test rounds on C++ language"
       },
       {
         "place": "2nd Position",
         "platform": "Radiance' 21, PICT ACM Student Chapter",
+        "time": "September 2021",
         "description": "App Dev: Develop An Application For A Good Cause"
+      },
+      {
+        "place": "1st Position",
+        "platform": "Xenia' 21, PICT CSI Student Branch",
+        "time": "June 2021",
+        "description": "Circuitron: The Ultimate Circuit Designing Competition"
       },
       {
         "place": "2nd Position",
         "platform": "Pulzion' 21, PICT ACM Student Chapter",
+        "time": "March 2021",
         "description": "Electroquest: Electronic Skills Competition"
-      },
-      {
-        "place": "Certificate, Badge, and Swags",
-        "platform": "Google Cloud Program",
-        "description": "Training on Qwiklabs for DSC members"
-      },
-      {
-        "place": "Selection for the Semi-Final Round",
-        "platform": "NASA Space Apps Challenge - Hackathon",
-        "description": "Made an influential project: ECO-LUTION"
       },
       {
         "place": "Participated",
         "platform": "HackNITR 2.0 - Hackathon ",
+        "time": "March 2021",
         "description": "Made a crucial project: RAKSHA"
       },
       {
+        "place": "1st Position",
+        "platform": "Credenz Live' 21, PICT IEEE Student Branch",
+        "time": "February 2021",
+        "description": "Pixelate: Digital Designing Competition"
+      },
+      {
+        "place": "Certificate, Badge, and Swags",
+        "platform": "Google Cloud Program",
+        "time": "December 2020",
+        "description": "Training on Qwiklabs for DSC members"
+      },
+      {
+        "place": "Gold Badge (5 Stars)",
+        "platform": "HackerRank",
+        "time": " September 2020",
+        "description": "C++ | Java | Python | Problem Solving"
+      },
+      {
+        "place": "Selection for the Semi-Final Round",
+        "platform": "NASA Space Apps Challenge - Hackathon",
+        "time": "October 2020",
+        "description": "Made an influential project: ECO-LUTION"
+      },
+      {
         "place": "2nd Position",
-        "platform": "Singhad Basketball Tournament",
+        "platform": "Singhad Karandak Sports",
+        "time": "February 2020",
         "description": "By PICT Basketball Team"
       }
     ],

@@ -8,8 +8,9 @@ const Resume = ({ data }) => {
         <div key={achievements.description}>
           <h3>{achievements.platform}</h3>
           <p className="info">
-            {achievements.place}
+            {achievements.place} <span>&bull;</span>
             {/* <span>&bull;</span> <em className="date">{achievements.description}</em> */}
+            <em className="date">{achievements.time}</em>
           </p>
           <p>{achievements.description}</p>
         </div>
@@ -55,6 +56,13 @@ const Resume = ({ data }) => {
       return (
         <div key={course.work}>
           <h4>{course.work}</h4>
+        </div>
+      );
+    });
+    var softSkills = data.softSkills.map(function (softSkills) {
+      return (
+        <div key={softSkills.skill}>
+          <h4>{softSkills.skill}</h4>
         </div>
       );
     });
@@ -123,6 +131,16 @@ const Resume = ({ data }) => {
         </div>
 
         <div className="nine columns main-col">{achievements}</div>
+      </div>
+
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Soft Skills</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">{softSkills}</div>
       </div>
 
       <div className="row skill">
