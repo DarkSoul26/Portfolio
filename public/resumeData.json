@@ -3,8 +3,8 @@
     "name": "Sanchit Kalsi",
     "occupation": "Student",
     "description": "I eat, sleep and breathe Coding!",
-    "image": "profilepic.jpg",
-    "bio": "Student in Software Engineering at Pune Institute of Computer Technology with experience and extensive education in programming languages, graphic designing, app development and web development. Fluent in English with excellent communication and interpersonal skills. A Fast learner with multi-tasking skills and leadership qualities. Strong work ethic in the team or individual settings to drive product success and process efficiency.",
+    "image": "sanchit.jpg",
+    "bio": "Student in Software Engineering at Pune Institute of Computer Technology with experience and extensive education in programming languages, cloud computing, graphic designing, app and web development. Fluent in English with excellent communication, and interpersonal skills. A Fast learner with multi-tasking skills and leadership qualities. Strong work ethic in the team or individual settings to drive product success and process efficiency.",
     "contactmessage": "Reach me out by entering the following details!",
     "email": "sanchitkalsi@gmail.com",
     "phone": "+91-9627948091",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/sanchit-k-09a172199/",
-    "resumedownload": "https://drive.google.com/file/d/18OQsKZkcG6TX_wBmZIKx9DtSSfR-C44a/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1v7NluxTog31oxRjZCj2i6B60qSkJ-n3r/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -41,7 +41,7 @@
         "school": "Pune Institute of Computer Technology",
         "degree": "Bachelor's Degree, Information Technology",
         "graduated": "July 2019 - Present",
-        "description": "Learning stage but not giving up age - 9.75 C.G.P.A."
+        "description": "Learning stage but not giving up age - 9.6 C.G.P.A."
       },
       {
         "school": "The Lexicon International School, Wagholi, Pune",
@@ -52,47 +52,65 @@
     ],
     "work": [
       {
-        "company": "Elevate Lab, California",
+        "company": "Elevate Career Network, California",
         "title": "Software Engineering Intern",
-        "years": "July 2021 - Present",
-        "description": "Transitioning original website onto a custom full-stack solution."
+        "years": "Aug 2021 - Nov 2021",
+        "description": "Transitioning the original website onto a custom full-stack solution."
+      },
+      {
+        "company": "Twowaits Technologies Pvt. Ltd, India",
+        "title": "Tathastu DSA Scholar Intern",
+        "years": "Feb 2022 - Mar 2022",
+        "description": "Learned and explored basic and advance data structures."
       }
     ],
     "por": [
       {
-        "company": "DEBSOC, PICT",
-        "title": "Design Board Member",
-        "years": "Apr 2021 - Present",
-        "description": "Work together - design together"
+        "company": "The Foss Club, PICT",
+        "title": "Social Media & Publicity Head",
+        "years": "Feb 2022 - Present",
+        "description": "Creating informative designs for the social media handles as well as managing the publicity of the events organized by the club."
       },
       {
-        "company": "DEBSOC, PICT",
-        "title": "Co-Executive of IAC (Internal Affairs Committee)",
-        "years": "Jan 2021 - Present",
-        "description": "Manage internal affairs committee and working under the club which is responsible for the personality development of every member."
+        "company": "The Official Debate Society of PICT, DEBSOC",
+        "title": "Design Board Member",
+        "years": "Aug 2021 - Present",
+        "description": " Ensure quality of all the designs and train a team of 50 members in the design team to make more productive designs."
       },
       {
         "company": "Entrepreneurship and Development Cell, PICT",
         "title": "Head of Design",
-        "years": "Feb 2021 - Present",
-        "description": "No work load, just my wish to create amazing designs"
+        "years": "Feb 2021 - Mar 2022",
+        "description": "Supervise design team & create at least 1 new design for every session or event conducted by EDC, PICT."
       },
       {
-        "company": "PASC, PICT",
+        "company": "The Official Debate Society of PICT, DEBSOC",
+        "title": "Co-Executive of IAC (Internal Affairs Committee)",
+        "years": "Jan 2021 - Feb 2022",
+        "description": "Manage internal affairs committee and working under the club which is responsible for the personality development of every member."
+      },
+      {
+        "company": "ACM Student Chapter, PICT",
         "title": "App Team Member",
+        "years": "Nov 2020 - Dec 2021",
+        "description": "Build applications for the flagship events."
+      },
+      {
+        "company": "Computer Society of India, PICT",
+        "title": "App Team Member",
+        "years": "Dec 2020 - Aug 2021",
+        "description": "Worked in a team of 10 members to organize various sessions on App Development and build applications for the events."
+      },
+      {
+        "company": "ACM Student Chapter, PICT",
+        "title": "Club Member",
         "years": "Nov 2019 - Present",
-        "description": "Member of PICT ACM Student Chapter."
-      },
-      {
-        "company": "PCSB, PICT",
-        "title": "App Team Member",
-        "years": "Jan 2021 - Present",
-        "description": "Member of PICT CSI Student Branch."
+        "description": "Member of the prestigious club."
       }
     ],
     "course": [
       {
-        "work": "Data Structures"
+        "work": "Data Structures and Algorithms"
       },
       {
         "work": "Object Oriented Programming"
@@ -131,6 +149,18 @@
       }
     ],
     "achievements": [
+      {
+        "place": "Among Top 5%",
+        "platform": "LinkedIn",
+        "time": "November 2021",
+        "description": "Java Skill Assessment"
+      },
+      {
+        "place": "Winner",
+        "platform": "Trailhead by Salesforce",
+        "time": "October 2021",
+        "description": "Won Salesforce Trailhead Hoodie"
+      },
       {
         "place": "Open Source",
         "platform": "Hacktoberfest",
@@ -248,10 +278,16 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Covid Care for All",
+        "category": "",
+        "image": "covid_care_for_all.png",
+        "url": "https://github.com/DarkSoul26/Covid_Care_for_All"
+      },
+      {
         "title": "Book Geeks",
         "category": "",
         "image": "book_geeks.png",
-        "url": ""
+        "url": "https://github.com/DarkSoul26/Book_Geeks"
       },
       {
         "title": "Raksha",
