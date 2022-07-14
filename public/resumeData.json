@@ -47,15 +47,27 @@
         "school": "The Lexicon International School, Wagholi, Pune",
         "degree": "12th Class",
         "graduated": "May 2017 - May 2019",
-        "description": "Maybe a bit lucky, passed 12th with 94%"
+        "description": "Maybe a bit lucky, passed 12th with 93%"
       }
     ],
     "work": [
+      {
+        "company": "Barclays Bank PLC, Pune",
+        "title": "Business Analyst 3 Intern",
+        "years": "June 2022 - Present",
+        "description": "Working on the logging analysis and creating a shell script and a java program to perform desired operations on the log files."
+      },
       {
         "company": "Elevate Career Network, California",
         "title": "Software Engineering Intern",
         "years": "Aug 2021 - Nov 2021",
         "description": "Transitioning the original website onto a custom full-stack solution."
+      },
+      {
+        "company": "SmartInternz, India",
+        "title": "Salesforce Developer Intern",
+        "years": "Apr 2022 - June 2022",
+        "description": "Explored various methodologies in Salesforce and understood Salesforce Developer modules from basic to advanced level."
       },
       {
         "company": "Twowaits Technologies Pvt. Ltd, India",
@@ -150,33 +162,45 @@
     ],
     "achievements": [
       {
+        "place": "1800+ Rating ",
+        "platform": "Leetcode",
+        "time": "July 2022",
+        "description": "Coding Competitions"
+      },
+      {
+        "place": "Among Top Percentile",
+        "platform": "AMCAT",
+        "time": "Mar 2022",
+        "description": "Top scores in every domain of the AMCAT examination"
+      },
+      {
         "place": "Among Top 5%",
         "platform": "LinkedIn",
-        "time": "November 2021",
+        "time": "Nov 2021",
         "description": "Java Skill Assessment"
       },
       {
         "place": "Winner",
         "platform": "Trailhead by Salesforce",
-        "time": "October 2021",
+        "time": "Oct 2021",
         "description": "Won Salesforce Trailhead Hoodie"
       },
       {
         "place": "Open Source",
         "platform": "Hacktoberfest",
-        "time": "October 2021",
+        "time": "Oct 2021",
         "description": "10+ contributions"
       },
       {
         "place": "4th Position",
         "platform": "Talent Hunt, Amrutvahini College of Engineering",
-        "time": "October 2021",
+        "time": "Oct 2021",
         "description": "Objective test rounds on C++ language"
       },
       {
         "place": "2nd Position",
         "platform": "Radiance' 21, PICT ACM Student Chapter",
-        "time": "September 2021",
+        "time": "Sep 2021",
         "description": "App Dev: Develop An Application For A Good Cause"
       },
       {
@@ -188,47 +212,51 @@
       {
         "place": "2nd Position",
         "platform": "Pulzion' 21, PICT ACM Student Chapter",
-        "time": "March 2021",
+        "time": "Mar 2021",
         "description": "Electroquest: Electronic Skills Competition"
       },
       {
         "place": "Participated",
         "platform": "HackNITR 2.0 - Hackathon ",
-        "time": "March 2021",
+        "time": "Mar 2021",
         "description": "Made a crucial project: RAKSHA"
       },
       {
         "place": "1st Position",
         "platform": "Credenz Live' 21, PICT IEEE Student Branch",
-        "time": "February 2021",
+        "time": "Feb 2021",
         "description": "Pixelate: Digital Designing Competition"
       },
       {
         "place": "Certificate, Badge, and Swags",
         "platform": "Google Cloud Program",
-        "time": "December 2020",
+        "time": "Dec 2020",
         "description": "Training on Qwiklabs for DSC members"
       },
       {
         "place": "Gold Badge (5 Stars)",
         "platform": "HackerRank",
-        "time": " September 2020",
+        "time": " Sept 2020",
         "description": "C++ | Java | Python | Problem Solving"
       },
       {
         "place": "Selection for the Semi-Final Round",
         "platform": "NASA Space Apps Challenge - Hackathon",
-        "time": "October 2020",
+        "time": "Oct 2020",
         "description": "Made an influential project: ECO-LUTION"
       },
       {
         "place": "2nd Position",
         "platform": "Singhad Karandak Sports",
-        "time": "February 2020",
+        "time": "Feb 2020",
         "description": "By PICT Basketball Team"
       }
     ],
     "skills": [
+      {
+        "name": "UNIX Shell Scripting",
+        "level": "50%"
+      },
       {
         "name": "Java",
         "level": "50%"
@@ -294,6 +322,12 @@
         "category": "",
         "image": "raksha.png",
         "url": "https://lit-plains-22827.herokuapp.com/"
+      },
+      {
+        "title": "Day In Page",
+        "category": "",
+        "image": "day_in_page.png",
+        "url": "https://day-in-page.netlify.app/"
       }
     ]
   },

@@ -7,7 +7,9 @@ const Testimonials = ({ data }) => {
         <li key={testimonials.user}>
           <blockquote>
             <p>{testimonials.text}</p>
-            <cite>{testimonials.user}</cite>
+            <a href="https://www.linkedin.com/in/rashisingh99b3331aa/">
+              <cite>{testimonials.user}</cite>
+            </a>
           </blockquote>
         </li>
       );

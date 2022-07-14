@@ -3,7 +3,7 @@ import React from "react";
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
-    var achievements = data.achievements.map(function (achievements){
+    var achievements = data.achievements.map(function (achievements) {
       return (
         <div key={achievements.description}>
           <h3>{achievements.platform}</h3>
@@ -15,7 +15,7 @@ const Resume = ({ data }) => {
           <p>{achievements.description}</p>
         </div>
       );
-    })
+    });
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -67,10 +67,14 @@ const Resume = ({ data }) => {
       );
     });
     var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();   
+      var className = "bar-expand " + skills.name.toLowerCase();
       return (
         <li key={skills.name}>
-          <span style={{ width: skills.level }} level={skills.level} className={className}></span>
+          <span
+            style={{ width: skills.level }}
+            level={skills.level}
+            className={className}
+          ></span>
           <em>{skills.name}</em>
         </li>
       );
@@ -79,6 +83,16 @@ const Resume = ({ data }) => {
 
   return (
     <section id="resume">
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Work Experience</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">{work}</div>
+      </div>
+
       <div className="row education">
         <div className="three columns header-col">
           <h1>
@@ -91,16 +105,6 @@ const Resume = ({ data }) => {
             <div className="twelve columns">{education}</div>
           </div>
         </div>
-      </div>
-
-      <div className="row work">
-        <div className="three columns header-col">
-          <h1>
-            <span>Work Experience</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">{work}</div>
       </div>
 
       <div className="row work">
@@ -158,9 +162,6 @@ const Resume = ({ data }) => {
           </div>
         </div>
       </div>
-
-      
-
     </section>
   );
 };

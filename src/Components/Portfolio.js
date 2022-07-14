@@ -33,7 +33,7 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+          <h1>Check Out Some of My Works</h1>
           <div
             style={{
               display: "flex",
@@ -41,7 +41,6 @@ const Portfolio = ({ data }) => {
               alignItems: "center",
               paddingTop: 30,
               border: "2px solid black",
-              // borderRadius: '1000px!important'
               borderRadius: "25px",
             }}
             id="portfolio-wrapper"
