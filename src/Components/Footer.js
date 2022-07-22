@@ -21,7 +21,7 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              © 2022 all rights reserved by{" "}
+              © {new Date().getFullYear()} all rights reserved by{" "}
               <a
                 title="Sanchu"
                 href="https://www.linkedin.com/in/sanchit-k-09a172199/"
